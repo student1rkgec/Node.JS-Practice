@@ -1,0 +1,22 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "This repository for Node.js practice work space and work all chapter practice here",
+  "main": "MNConnection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/student1rkgec/Node.JS-Practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/student1rkgec/Node.JS-Practice/issues"
+  },
+  "homepage": "https://github.com/student1rkgec/Node.JS-Practice#readme",
+  "dependencies": {
+    "mongodb": "^3.1.0-beta4"
+  }
+}
